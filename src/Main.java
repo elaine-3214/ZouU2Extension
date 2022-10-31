@@ -47,6 +47,7 @@ public class Main {
             operator = "^";
         }
 
+
         Calculator test = new Calculator(number1, operator, number2);
         System.out.println(test.answer());
     }

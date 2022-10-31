@@ -4,6 +4,7 @@ public class Calculator {
     private double num2;
     private String oper;
 
+
     //constructor
     Calculator (double num1, String oper, double num2) {
         this.num1 = num1;
